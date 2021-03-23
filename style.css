@@ -1,17 +1,14 @@
 body {
-    background-color:  #008E97;      
+    background-color:  #FFFFFF;      
 }
-
+/*
 .container {
   display: grid;
   grid-gap: 1rem;
   grid-template-columns:  repeat(auto-fit, minmax(320,1fr));
   grid-template-rows: repeat(3, 100px); 
 }
-
-#bt12 {
-  text-align: center;
-}
+*/ 
   
 /* The hero image */
 .hero-image {
@@ -19,7 +16,7 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("memory.jpg");
 
   /* Set a specific height */
-  height: 50%;
+  height: 100%;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
