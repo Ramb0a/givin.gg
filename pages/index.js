@@ -46,7 +46,8 @@ export default function Home() {
 {/* What We Do Section Section */}
       
       <div className="h-screen grid sm:h-1/2 sm:grid-cols-2 gap-4 mt-4 ">
-  
+
+        <div>
   <div className="bg-white text-gray-500"><article className="prose ">
   <div className="divide-y-2">
   <div> <h1 id="Us" className="text-center ">What We Do</h1></div>
@@ -54,6 +55,7 @@ export default function Home() {
   
   </div></article> 
  </div>
+</div>
   <div><article className="prose"><div className="divide-y-2">
     <div><h1 className="text-center"> Why We Do It</h1></div>
     <p className="p-4 font-mono text-justify">Our goal is to create society changing pharmaceuticals.  We do this by partnering with organizations in the pharmaceutical ecosystem to co-create "druggable" GPRC targets from those currently considered "undruggable." <br/>We allow researchers to quickly and accurately identify potential docking sites and ligand interactions to increase the success rates for phase I, II and III clinical trials in the drug discovery process. We believe now is the time is now to utilizes computational drug discovery tools to bring new therapeutics to light. </p>
