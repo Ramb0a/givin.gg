@@ -129,7 +129,7 @@ export default function Home() {
       </div>      
 
       <footer className="grid grid-cols-4 text-sm margin-auto">
-        <div className="h-24 w-24 sm:h-48 sm:w-48 relative mt-2" ><Image 
+        <div className="h-20 w-20 sm:h-48 sm:w-48 relative mt-2" ><Image 
           src="image.png" 
           alt="logo"
           layout="fill" /></div>
