@@ -129,23 +129,23 @@ export default function Home() {
       </div>      
 
       <footer className="grid grid-cols-4 text-sm margin-auto">
-        <div className="h-32 w-32 sm:h-48 sm:w-48 relative mt-2" ><Image 
+        <div className="h-24 w-24 sm:h-48 sm:w-48 relative mt-2" ><Image 
           src="image.png" 
           alt="logo"
           layout="fill" /></div>
-        <div className=" h-32 mt-2 font-mono">
+        <div className="mt-2 font-mono">
           <p><b>Givingg Ontario</b></p>
         <p> 101 College St</p>
         <p> Toronto, On</p> 
         <p> M5G 1L7 </p>
         </div>
-        <div className="h-32 mt-2 font-mono">
+        <div className="mt-2 font-mono">
           <p><b>Givingg Quebec</b></p>
           <p>1000 Rue Saint-Jacques</p>
           <p>Montreal, Quebec</p>
           <p>H3C 1G7</p>
         </div>
-        <div className="h-32 mt-2 font-mono">
+        <div className="mt-2 font-mono">
             <p><b>Givingg Turin</b></p>
             <p>2 Via Agostino da Montfeltro</p>
             <p>Torino, Italy</p>
