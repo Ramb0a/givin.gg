@@ -71,10 +71,10 @@ export default function Home() {
   </article>  
         </div>
         <div className="flex flex-grow justify-evenly mb-4 sm:mb-8">
-    <div className="p-2 h-48 text-center font-mono text-sm sm:text-xl"><CloudIcon className="h-24 w-24 text-blue-500"/><p>Protein <br /> as a <br /> Service </p></div>
-    <div className="p-2 h-48 text-center font-mono text-sm sm:text-xl"><FingerPrintIcon className="h-24 w-24 text-blue-500" /><p>Molecular <br/>Finger <br />Printing</p></div>
-    <div className="p-2 h-48 text-center font-mono text-sm sm:text-xl"><MapIcon className="h-24 w-24 text-blue-500" /><p>Target<br/>Mapping</p></div>
-    <div className="p-2 h-48 text-center font-mono text-sm sm:text-xl"><ChipIcon className="h-24 w-24 text-blue-500"/><p>Quantum <br/>Lead<br/>Generation</p></div>
+    <div className="p-2 h-48 text-center font-mono text-sm sm:text-xl m-auto"><CloudIcon className="h-24 w-24 text-blue-500"/><p>Protein <br /> as a <br /> Service </p></div>
+    <div className="p-2 h-48 text-center font-mono text-sm sm:text-xl m-auto"><FingerPrintIcon className="h-24 w-24 text-blue-500" /><p>Molecular <br/>Finger <br />Printing</p></div>
+    <div className="p-2 h-48 text-center font-mono text-sm sm:text-xl m-auto"><MapIcon className="h-24 w-24 text-blue-500" /><p>Target<br/>Mapping</p></div>
+    <div className="p-2 h-48 text-center font-mono text-sm sm:text-xl m-auto"><ChipIcon className="h-24 w-24 text-blue-500"/><p>Quantum <br/>Lead<br/>Generation</p></div>
   </div>
 </div>
 
