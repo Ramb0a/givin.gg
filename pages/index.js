@@ -22,14 +22,14 @@ export default function Home() {
       
       <div className="h-screen text-center  bg-gradient-to-r from-green-50 via-blue-100 to-purple-300 rounded-sm grid ">
         <div className="m-auto">
-          <span className="uppercase tracking-widest text-gray-500">We</span>
+          <span className="tracking-widest text-gray-500">We</span>
           <h1 className="text-5xl sm:text-7xl font-bold font-sans text-indigo-700 mb-2">
           Discover<br/>Drugs
           </h1>
 <p className="font-bold mb-1 text-gray-500 tracking-widest">Quantum </p>
 <p className="font-bold mb-1 text-gray-500 tracking-widest">Machine Learning</p>
 
-          <p className="text-gray-500 tracking-widest">For Pre-Clinical R&D Pipelines</p>
+          <p className="text-gray-500 tracking-widest">for Pre-Clinical R&D Pipelines</p>
         </div>
        
         <div className="flex justify-center ">
@@ -51,14 +51,14 @@ export default function Home() {
   <div className="bg-white text-gray-500"><article className="prose ">
   <div className="divide-y-2">
   <div> <h1 id="Us" className="text-center ">What We Do</h1></div>
-    <p className="p-4 font-mono text-justify">Givingg accelerates drug development by building automated discovery pipelines. Our state-of-the-art cloud platform allows your R&D team to harness Machine Learning empowered Quantum Physics for unprecedented computational bioinformatic accuracy.Our platform speeds time to clinical trial, reducing cost of new innovative therapeutic development.<br/> With our state-of-the-art target optimization toolkit your team can focus on the goal rather than the process of developing new life saving drugs.</p> 
+    <p className="p-4 font-mono text-justify">Givingg accelerates drug development by building automated discovery pipelines. Our state-of-the-art cloud platform allows your R&D team to harness Machine Learning powered Quantum Physics for unprecedented computational bioinformatic accuracy. Our platform speeds time to clinical trial, reducing cost of new innovative therapeutic development.<br/> With our state-of-the-art target optimization toolkit your team can focus on the goal, rather than the process of, developing new life saving drugs.</p> 
   
   </div></article> 
  </div>
 </div>
   <div><article className="prose"><div className="divide-y-2">
     <div><h1 className="text-center"> Why We Do It</h1></div>
-    <p className="p-4 font-mono text-justify">Our goal is to create society changing pharmaceuticals.  We do this by partnering with organizations in the pharmaceutical ecosystem to co-create "druggable" GPRC targets from those currently considered "undruggable." <br/>We allow researchers to quickly and accurately identify potential docking sites and ligand interactions to increase the success rates for phase I, II and III clinical trials in the drug discovery process. We believe now is the time is now to utilizes computational drug discovery tools to bring new therapeutics to light. </p>
+    <p className="p-4 font-mono text-justify">Our goal is to create society changing pharmaceuticals.  We do this by partnering with organizations in the pharmaceutical ecosystem to co-create "druggable" GPRC targets from those currently considered "undruggable." <br/>We allow researchers to quickly and accurately identify potential docking sites and ligand interactions to increase the success rates for phase I, II and III clinical trials in the drug discovery process. We believe now is the time to utilize computational drug discovery tools to bring new therapeutics to light. </p>
   </div></article> 
   </div>
   </div> 
@@ -86,7 +86,7 @@ export default function Home() {
       </div>
   <div className="sm:grid sm:grid-cols-2 gap-6 p-6 mb-4">
     <div className="font-mono  mb-6"><article className="prose"><h2 className="text-center">Our Location</h2>
-    <p className="text-justify">Our location: Headquartered in Canada (Montreal & Toronto) and an office in Italy (Turin) we benefit from access to global technology hubs. With Canada's increasing investment in Machine Learning and BioTechnology we are surrounded by environments dedicated to proving first-class business resources.  </p></article></div>
+    <p className="text-justify">Headquartered in Canada (Montreal & Toronto) and an office in Italy (Turin) we benefit from access to global technology hubs. With Canada's increasing investment in Machine Learning and BioTechnology we are surrounded by environments dedicated to proving first-class business resources.  </p></article></div>
 
     <div className="grid grid-cols-1 gap-4">
     <div className="font-mono text-center "><article className="prose"><h2>Message Us</h2></article></div> 
