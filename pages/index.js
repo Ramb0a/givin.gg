@@ -153,7 +153,7 @@ export default function Home() {
           </div>
 </footer> 
 
-    <div className="bg-gray-50 text-center p-1 text-gray-400 font-mono"><p>©Givingg LLC, 2021</p></div>
+    <div className="bg-gray-50 text-center p-1 text-gray-400 font-mono"><p>©Givingg Inc., 2021</p></div>
 
 </div> 
   )
